@@ -1,6 +1,5 @@
 # import the necessary packages
 from panorama import Stitcher
-import imutils
 import cv2
 
 
