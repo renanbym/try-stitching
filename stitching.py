@@ -1,6 +1,6 @@
 # import the necessary packages
 from panorama import Stitcher
-import cv2
+from extensions.cv2 import cv2
 
 
 # load the two images and resize them to have a width of 400 pixels
